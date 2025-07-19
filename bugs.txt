@@ -1,0 +1,8 @@
+angry wall - cannot move the bird ///
+car racing - improve the game logic and object movement ///
+cave story - bug ///
+egg catching - game frame///
+ghost- intro///
+hangman - /////
+snake game - no return button, snake skin too hard to see
+tiktactoe - bug///

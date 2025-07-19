@@ -1,0 +1,504 @@
+﻿APPLE:A common round fruit with a red or green skin and a whitish interior.
+BANANA:A long curved fruit which grows in clusters and has a soft pulpy flesh and yellow skin when ripe.
+ORANGE:A round juicy citrus fruit with a tough bright reddish-yellow rind.
+GRAPE:A berry, typically green, purple, red, or black, growing in clusters on a vine, eaten as fruit, and used in making wine.
+STRAWBERRY:A sweet soft red fruit with a seed-studded surface.
+BLUEBERRY:A small, round, blue-purple berry.
+WATERMELON:A large fruit of a climbing plant, with a hard green rind, red fleshy pulp, and many seeds.
+PINEAPPLE:A large juicy tropical fruit consisting of an edible multiple fruit.
+KIWI:A small oval fruit with a brownish hairy skin and a green flesh.
+LEMON:A yellow, oval citrus fruit with thick skin and fragrant, acidic juice.
+COMPUTER:An electronic device for storing and processing data, typically in binary form, according to instructions given to it in a variable program.
+KEYBOARD:A panel of keys that operate a computer or typewriter.
+MONITOR:An instrument or device used for observing, checking, or keeping a continuous record of a process or quantity.
+MOUSE:A small handheld device that is dragged across a flat surface to control the cursor on a computer screen.
+PRINTER:A machine for printing text or pictures onto paper, especially one connected to a computer.
+SOFTWARE:The programs and other operating information used by a computer.
+HARDWARE:The physical components of computers and other electronic systems.
+INTERNET:A global computer network providing a variety of information and communication facilities, consisting of interconnected networks using standardized communication protocols.
+WEBSITE:A set of related web pages located under a single domain name.
+BROWSER:A software application for retrieving, presenting, and traversing information resources on the World Wide Web.
+PROGRAMMING:The process of writing computer programs.
+ALGORITHM:A process or set of rules to be followed in calculations or other problem-solving operations.
+DATABASE:A structured set of data held in a computer, especially one that is accessible in various ways.
+NETWORK:A group or system of interconnected people or things.
+SECURITY:The state of being free from danger or threat.
+ENCRYPTION:The process of converting information or data into a code, especially to prevent unauthorized access.
+VIRUS:A piece of code that is capable of copying itself and typically has a detrimental effect, such as corrupting the system or destroying data.
+FIREWALL:A part of a computer system or network that is designed to block unauthorized access while permitting outward communication.
+ROBOT:A machine capable of carrying out a complex series of actions automatically.
+ARTIFICIAL:Made or produced by human beings rather than occurring naturally, especially as a copy of something natural.
+INTELLIGENCE:The ability to acquire and apply knowledge and skills.
+MACHINE:An apparatus using or applying mechanical power and having several parts, each with a definite function and contributing to the performance of the whole.
+LEARNING:The acquisition of knowledge or skills through study, experience, or being taught.
+DATA:Facts and statistics collected together for reference or analysis.
+ANALYTICS:The systematic computational analysis of data or statistics.
+CLOUD:A network of remote servers hosted on the Internet and used to store, manage, and process data.
+SERVER:A computer program that manages access to a centralized resource or service in a network.
+CLIENT:A computer or program that relies on another computer or program for resources or services.
+DEVELOPER:A person or company that creates software or applications.
+ENGINEER:A person who designs, builds, or maintains engines, machines, or public works.
+DESIGN:A plan or drawing produced to show the look and function or workings of a building, garment, or other object before it is built or made.
+GRAPHICS:The products of the graphic arts, especially drawings or engravings.
+ANIMATION:The technique of photographing successive drawings or positions of puppets or models to create an illusion of movement when the movie is shown as a sequence.
+VIRTUAL:Not physically existing as such but made by software to appear to do so.
+REALITY:The state of things as they actually exist, as opposed to an idealistic or notional idea of them.
+AUGMENTED:Having been made greater in size or value.
+HEADSET:A pair of headphones, typically with a microphone attached.
+SENSOR:A device which detects or measures a physical property and records, indicates, or otherwise responds to it.
+BATTERY:A container consisting of one or more cells, in which chemical energy is converted into electricity and used as a source of power.
+CHARGER:A device for charging storage batteries.
+ELECTRICITY:A form of energy resulting from the existence of charged particles, such as electrons or protons, either statically as an accumulation of charge or dynamically as a current.
+MAGNET:A piece of iron or other material which has its component atoms so ordered that the material exhibits properties of magnetism, such as attracting other iron-containing objects or aligning itself in an external magnetic field.
+GRAVITY:The force that attracts a body toward the center of the earth, or toward any other physical body having mass.
+ENERGY:The strength and vitality required for sustained physical or mental activity.
+POWER:The ability or capacity to do something or act in a particular way.
+LIGHT:The natural agent that stimulates sight and makes things visible.
+SOUND:Vibrations that travel through the air or another medium and can be heard when they reach a person's or animal's ear.
+WAVE:A long body of water curling into an arched form and breaking on the shore.
+FREQUENCY:The rate at which something occurs or is repeated over a particular period of time or in a given sample.
+AMPLITUDE:The maximum extent of a vibration or oscillation, measured from the position of equilibrium.
+SPECTRUM:A band of colors, as seen in a rainbow, produced by separation of the components of light by their different degrees of refraction according to wavelength.
+COLOR:The property possessed by an object of producing different sensations on the eye as a result of the way it reflects or emits light.
+SHAPE:The external form or appearance characteristic of someone or something; the outline of an area or figure.
+TEXTURE:The feel, appearance, or consistency of a surface or a substance.
+PATTERN:A repeated decorative design.
+SYMMETRY:The quality of being made up of exactly similar parts facing each other or around an axis.
+BALANCE:An even distribution of weight enabling someone or something to remain upright and steady.
+MOTION:The action or process of moving or being moved.
+VELOCITY:The speed of something in a given direction.
+ACCELERATION:The rate at which something increases in speed.
+FORCE:Strength or energy as an attribute of physical action or movement.
+PRESSURE:Continuous physical force exerted on or against an object by something in contact with it.
+TEMPERATURE:The degree or intensity of heat present in a substance or object.
+HEAT:The quality of being hot; high temperature.
+COLD:Of or at a low temperature, especially when compared to the human body.
+FREEZE:Turn or be turned into ice or another solid as a result of extreme cold.
+MELT:Make or become liquefied by heat.
+BOIL:Bring to or reach the temperature at which it bubbles and turns to vapor.
+EVAPORATE:Turn from liquid into vapor.
+CONDENSE:Change from gas or vapor to liquid.
+PRECIPITATION:Rain, snow, sleet, or hail that falls to the ground.
+ATMOSPHERE:The envelope of gases surrounding the earth or another planet.
+OXYGEN:A colorless, odorless reactive gas, the chemical element of atomic number 8 and the life-supporting component of the air.
+HYDROGEN:A colorless, odorless, highly flammable gaseous element, the chemical element of atomic number 1.
+NITROGEN:The chemical element of atomic number 7, a colorless odorless unreactive gas that forms about 78 percent of the earth's atmosphere.
+CARBON:The chemical element of atomic number 6, a nonmetal that has two main forms (diamond and graphite) and that occurs in all organic matter.
+DIAMOND:A precious stone consisting of a colorless crystalline form of pure carbon.
+GRAPHITE:A gray crystalline allotropic form of carbon which occurs as a mineral in some rocks and can be made from coke.
+GOLD:A yellow precious metal, valued as an investment and for use in jewelry and decoration.
+SILVER:A precious shiny grayish-white metal, used for coins, jewelry, and tableware.
+COPPER:A red-brown metal, the chemical element of atomic number 29.
+IRON:A strong, hard magnetic silvery-gray metal, the chemical element of atomic number 26, much used as a material for construction and manufacturing.
+ALUMINUM:A light, silvery-gray metal, the chemical element of atomic number 13.
+STEEL:A hard, strong, gray or bluish-gray alloy of iron with carbon and usually other elements, used extensively as a structural and fabricating material.
+GLASS:A hard, brittle substance, typically transparent or translucent, made by fusing sand with soda and lime and cooling rapidly.
+PLASTIC:A synthetic material made from a wide range of organic polymers such as polyethylene, PVC, nylon, etc., that can be molded into shape while soft, and then set into a rigid or slightly elastic form.
+RUBBER:A tough elastic polymeric substance made from latex of a tropical plant or synthetically.
+WOOD:The hard fibrous material that forms the main part of the trunk or branches of a tree or shrub.
+PAPER:Material manufactured in thin sheets from the pulp of wood or other fibrous substances, used for writing, drawing, or printing on, or as wrapping material.
+FABRIC:Cloth or other material produced by weaving or knitting fibers.
+COTTON:A soft white fibrous substance that surrounds the seeds of a tropical and subtropical plant and is used as textile fiber and for stuffing.
+WOOL:The fine, soft, curly hair forming the fleece of sheep and certain other animals, used in making textiles and yarn.
+SILK:A fine, strong, soft, lustrous fiber produced by silkworms in making cocoons and collected to make thread and fabric.
+LEATHER:A material made from the skin of an animal by tanning or a similar process.
+CLAY:A stiff, sticky fine-grained earth, typically yellow, red, or bluish-gray in color and often forming an impermeable layer in the soil.
+CERAMIC:Made of clay and hardened by heat.
+CONCRETE:A heavy, rough building material made from a mixture of broken stone or gravel, sand, cement, and water, which can be spread or poured into molds and forms a stonelike mass on hardening.
+BRICK:A block of hard material used in building, typically made of fired clay.
+CEMENT:A powdery substance made with calcined lime and clay, mixed with water to form mortar or concrete.
+SAND:A loose granular material resulting from the disintegration of rocks, covering beaches, deserts, and riverbeds.
+ROCK:The solid mineral material forming part of the surface of the earth and other similar planets, exposed on the surface or underlying the soil or oceans.
+MOUNTAIN:A large natural elevation of the earth's surface rising abruptly from the surrounding level; a large steep hill.
+VALLEY:A low area of land between hills or mountains, typically with a river or stream flowing through it.
+RIVER:A large natural stream of water flowing in a channel to the sea, a lake, or another river.
+LAKE:A large body of water surrounded by land.
+OCEAN:A very large expanse of sea, in particular each of the five main areas of the earth divided by continents and islands.
+SEA:The expanse of salt water that covers most of the earth's surface and surrounds its landmasses.
+ISLAND:A piece of land surrounded by water.
+DESERT:A dry, barren area of land, especially one where there is little water or vegetation.
+FOREST:A large area covered chiefly with trees and undergrowth.
+JUNGLE:An area of land in the tropics where trees and plants grow very thickly.
+SWAMP:An area of low-lying, uncultivated ground where water collects; a bog or marsh.
+VOLCANO:A mountain or hill, typically conical, having a crater or vent through which lava, rock fragments, hot vapor, and gas are or have been erupted from the earth's crust.
+EARTHQUAKE:A sudden violent shaking of the ground, typically causing great destruction, as a result of movements within the earth's crust or volcanic action.
+TSUNAMI:A long, high sea wave caused by an earthquake, submarine landslide, or other disturbance.
+HURRICANE:A storm with a violent wind, in particular a tropical cyclone in the Caribbean.
+TORNADO:A mobile, destructive vortex of violently rotating winds having the appearance of a funnel-shaped cloud and advancing beneath a large storm system.
+FLOOD:An overflow of a large amount of water beyond its normal limits, especially over what is normally dry land.
+DROUGHT:A prolonged period of abnormally low rainfall; a shortage of water resulting from this.
+FIRE:Combustion or burning, in which substances combine chemically with oxygen from the air and typically give out bright light, heat, and smoke.
+ICE:Frozen water, a brittle transparent crystalline solid.
+SNOW:Atmospheric water vapor frozen into ice crystals and falling in light white flakes or lying on the ground as a white layer.
+RAIN:Moisture condensed from the atmosphere that falls visibly in drops.
+WIND:The natural movement of the air, especially in the form of a current of air blowing from a particular direction.
+SUN:The star that the Earth orbits, which provides light and heat.
+MOON:The natural satellite of the Earth, visible by reflected sunlight.
+STAR:A fixed luminous point in the night sky that is a large, remote incandescent body like the sun.
+PLANET:A celestial body moving in an elliptical orbit around a star.
+GALAXY:A system of millions or billions of stars, together with gas and dust, held together by gravitational attraction.
+UNIVERSE:All existing matter and space considered as a whole; the cosmos.
+ASTRONOMY:The branch of science which deals with celestial objects, space, and the physical universe as a whole.
+PHYSICS:The branch of science concerned with the nature and properties of matter and energy.
+CHEMISTRY:The branch of science concerned with the substances of which matter is composed, the investigation of their properties and reactions, and the use of such reactions to form new substances.
+BIOLOGY:The study of living organisms, divided into many specialized fields that cover their morphology, physiology, anatomy, behavior, origin, and distribution.
+GEOLOGY:The science that deals with the earth's physical structure and substance, its history, and the processes that act on it.
+METEOROLOGY:The scientific study of the atmosphere and its phenomena, especially for forecasting the weather.
+ECOLOGY:The branch of biology that deals with the relations of organisms to one another and to their physical surroundings.
+EVOLUTION:The process by which different kinds of living organisms are thought to have developed and diversified from earlier forms during the history of the earth.
+GENETICS:The study of heredity and the variation of inherited characteristics.
+ANATOMY:The branch of science concerned with the bodily structure of humans, animals, and other living organisms.
+PHYSIOLOGY:The branch of biology that deals with the normal functions of living organisms and their parts.
+MEDICINE:The science or practice of the diagnosis, treatment, and prevention of disease.
+SURGERY:The treatment of injuries or diseases in which a cut is made in the body to repair, remove, or replace the damaged or diseased part.
+NURSE:A person trained to care for the sick or infirm, especially in a hospital.
+DOCTOR:A qualified practitioner of medicine.
+HOSPITAL:An institution providing medical and surgical treatment and nursing care for sick or injured people.
+PHARMACY:A shop or part of a shop where medicines are prepared and sold.
+VACCINE:A substance used to stimulate the production of antibodies and provide immunity against one or several diseases.
+ANTIBIOTIC:A medicine that inhibits the growth of or destroys microorganisms.
+VITAMIN:Any of a group of organic compounds which are essential for normal growth and nutrition and are required in small quantities in the diet.
+MINERAL:A solid inorganic substance of natural occurrence.
+PROTEIN:Any of a class of nitrogenous organic compounds which have large molecules composed of one or more long chains of amino acids and are an essential part of all living organisms.
+CARBOHYDRATE:Any of a large group of organic compounds occurring in foods and living tissues and including sugars, starch, and cellulose.
+FAT:A natural oily or greasy substance occurring in animal bodies, especially under the skin.
+DIET:The kinds of food that a person, animal, or community habitually eats.
+EXERCISE:Activity requiring physical effort, carried out to sustain or improve health and fitness.
+SLEEP:A condition of body and mind that typically recurs for several hours every night, in which the nervous system is relatively inactive and consciousness is practically suspended.
+DREAM:A series of thoughts, images, or sensations occurring in a person's mind during sleep.
+NIGHTMARE:A terrifying dream in which the dreamer experiences feelings of helplessness, terror, or anguish.
+HAPPINESS:The state of being happy.
+SADNESS:The state of being sad; sorrow.
+ANGER:A strong feeling of annoyance, displeasure, or hostility.
+FEAR:An unpleasant emotion caused by the belief that someone or something is dangerous, likely to cause pain, or a threat.
+JOY:A feeling of great pleasure and happiness.
+LOVE:An intense feeling of deep affection.
+HATE:Feel intense or passionate dislike for (someone).
+COURAGE:The ability to do something that frightens one.
+BRAVERY:Courageous behavior or character.
+HONESTY:The quality of being honest.
+TRUTH:The quality or state of being true.
+LIE:An intentionally false statement.
+FRIENDSHIP:The state of being friends.
+FAMILY:A group consisting of parents and children living together in a household.
+COMMUNITY:A group of people living in the same place or having a particular characteristic in common.
+SOCIETY:The aggregate of people living together in a more or less ordered community.
+CULTURE:The customs, arts, social institutions, and achievements of a particular nation, people, or group.
+HISTORY:The study of past events.
+GEOGRAPHY:The study of the physical features of the earth and its atmosphere, and of human activity as it affects and is affected by these, including the distribution of populations and resources, land use, and industries.
+ECONOMICS:The branch of knowledge concerned with the production, consumption, and transfer of wealth.
+POLITICS:The activities associated with the governance of a country or area.
+LAW:The system of rules which a particular country or community recognizes as regulating the actions of its members and which it may enforce by the imposition of penalties.
+JUSTICE:Just behavior or treatment.
+FREEDOM:The power or right to act, speak, or think as one wants without hindrance or restraint.
+EQUALITY:The state of being equal, especially in status, rights, or opportunities.
+LIBERTY:The state of being free within society from oppressive restrictions imposed by authority on one's way of life, behavior, or political views.
+DEMOCRACY:A system of government by the whole population or all the eligible members of a state, typically through elected representatives.
+REPUBLIC:A state in which supreme power is held by the people and their elected representatives, and which has an elected or nominated president rather than a monarch.
+MONARCHY:A form of government with a monarch at the head.
+EMPIRE:An extensive group of states or countries under a single supreme authority.
+KING:The male ruler of an independent state, especially one who inherits the position by right of birth.
+QUEEN:The female ruler of an independent state, especially one who inherits the position by right of birth.
+PRINCE:The son of a monarch.
+PRINCESS:The daughter of a monarch.
+KNIGHT:A man who served his sovereign or lord as a mounted soldier in armor.
+CASTLE:A large building or group of buildings fortified against attack with thick walls, battlements, and in many cases a moat.
+SWORD:A weapon with a long metal blade and a hilt with a hand guard.
+SHIELD:A broad piece of armor carried by hand, for protection against blows or missiles.
+ARMOR:Protective covering, typically of metal, worn by soldiers or warriors in combat.
+BATTLE:A fight between large armed forces.
+WAR:A state of armed conflict between different countries or different groups within a country.
+PEACE:Freedom from disturbance; tranquility.
+VICTORY:An act of defeating an enemy or opponent in a battle, game, or other competition.
+DEFEAT:An act of defeating or being defeated in a battle or other contest.
+HERO:A person who is admired for their courage, outstanding achievements, or noble qualities.
+VILLAIN:A character whose evil actions or motives are important to the plot.
+MAGIC:The power of apparently influencing the course of events by using mysterious or supernatural forces.
+WIZARD:A man who has magical powers.
+DRAGON:A mythical monster like a giant reptile, typically depicted as a winged, fire-breathing, scaly creature with a crested head and enormous claws.
+UNICORN:A mythical animal typically represented as a horse with a single straight horn projecting from its forehead.
+FAIRY:A small, imaginary being of human form that has magical powers, especially a female one.
+ELF:A supernatural creature of folk tales, typically represented as a small, elusive figure in human form with pointed ears, magical powers, and a mischievous temperament.
+DWARF:A person, animal, or plant of abnormally small size.
+GIANT:An imaginary or mythical being of human form but superhuman size.
+GOBLIN:A mischievous, ugly, dwarf-like creature of folklore.
+MERMAID:A mythical half-human, half-fish female creature.
+VAMPIRE:A corpse supposed to leave its grave at night to drink the blood of the living.
+WEREWOLF:A person who changes into a wolf or a wolf-like creature.
+ZOMBIE:A corpse said to be revived by witchcraft, especially in certain Caribbean religions.
+GHOST:An apparition of a dead person which is believed to appear or become manifest to the living.
+ANGEL:A spiritual being believed to act as an attendant, agent, or messenger of God.
+DEMON:An evil spirit or devil.
+HEAVEN:A place regarded in various religions as the abode of God or the gods and of the good after death.
+HELL:A place regarded in various religions as a spiritual realm of evil and suffering, often traditionally depicted as a place of perpetual fire beneath the earth where the wicked are punished after death.
+PARADISE:An ideal or idyllic place or state.
+APOCALYPSE:The complete final destruction of the world.
+UTOPIA:An imagined place or state of things in which everything is perfect.
+DYSTOPIA:An imagined place or state in which everything is unpleasant or bad.
+FUTURE:The time or a period of time following the moment of speaking or writing; time regarded as still to come.
+PAST:The time or a period of time before the moment of speaking or writing.
+PRESENT:The period of time now occurring.
+TIME:The indefinite continued progress of existence and events in the past, present, and future regarded as a whole.
+SPACE:The boundless three-dimensional extent in which objects and events have relative position and direction.
+DIMENSION:A measurable extent of some kind, such as length, breadth, depth, or height.
+UNIVERSE:All existing matter and space considered as a whole; the cosmos.
+MULTIVERSE:A hypothetical collection of parallel universes.
+PARALLEL:Side by side and having the same distance continuously between them.
+ALTERNATE:Occur in turn repeatedly.
+REALITY:The state of things as they actually exist, as opposed to an idealistic or notional idea of them.
+ILLUSION:A thing that is or is likely to be wrongly perceived or interpreted by the senses.
+DREAM:A series of thoughts, images, or sensations occurring in a person's mind during sleep.
+NIGHTMARE:A terrifying dream in which the dreamer experiences feelings of helplessness, terror, or anguish.
+FANTASY:The faculty or activity of imagining impossible or improbable things.
+FICTION:Literature in the form of prose, especially novels, that describes imaginary events and people.
+NONFICTION:Prose writing that is based on facts, real events, and real people, such as biography or history.
+POETRY:Literary work in which special intensity is given to the expression of feelings and ideas by the use of distinctive style and rhythm.
+PROSE:Written or spoken language in its ordinary form, without metrical structure.
+NOVEL:A fictitious prose narrative of book length, typically representing character and action with some degree of realism.
+STORY:An account of imaginary or real people and events told for entertainment.
+BOOK:A written or printed work consisting of pages glued or sewn together along one side and bound in covers.
+LIBRARY:A building or room containing collections of books, periodicals, and sometimes films and recorded music for use or borrowing by the public or the members of an institution.
+READING:The action or skill of deciphering written or printed words.
+WRITING:The activity or skill of marking coherent words on paper and composing text.
+LANGUAGE:The method of human communication, either spoken or written, consisting of the use of words in a structured and conventional way.
+GRAMMAR:The whole system and structure of a language or of languages in general.
+VOCABULARY:The body of words used in a particular language.
+SENTENCE:A set of words that is complete in itself, typically containing a subject and predicate, conveying a statement, question, exclamation, or command.
+PARAGRAPH:A distinct section of a piece of writing, usually dealing with a single theme and indicated by a new line, indentation, or numbering.
+ESSAY:A short piece of writing on a particular subject.
+ARTICLE:A piece of writing on a particular subject in a newspaper or magazine, or on a website.
+REPORT:A factual account or statement.
+SUMMARY:A brief statement or account of the main points of something.
+ANALYSIS:Detailed examination of the elements or structure of something.
+RESEARCH:The systematic investigation into and study of materials and sources in order to establish facts and reach new conclusions.
+DISCOVERY:The action or process of discovering or being discovered.
+INVENTION:The action of inventing something, typically a process or device.
+INNOVATION:The action or process of innovating.
+TECHNOLOGY:The application of scientific knowledge for practical purposes, especially in industry.
+SCIENCE:The intellectual and practical activity encompassing the systematic study of the structure and behavior of the physical and natural world through observation and experiment.
+MATH:The study of numbers, shapes, and patterns.
+ALGEBRA:The part of mathematics in which letters and other general symbols are used to represent numbers and quantities in formulae and equations.
+GEOMETRY:The branch of mathematics concerned with the properties and relations of points, lines, surfaces, solids, and higher dimensional analogs.
+CALCULUS:The branch of mathematics that deals with the finding and properties of derivatives and integrals of functions.
+STATISTICS:The practice or science of collecting and analyzing numerical data in large quantities, especially for the purpose of inferring proportions in a whole from those in a representative sample.
+PROBABILITY:The extent to which an event is likely to occur, measured by the ratio of the favorable cases to the whole number of cases possible.
+LOGIC:Reasoning conducted or assessed according to strict principles of validity.
+CRITICAL:Expressing or involving an analysis of the merits and faults of a work of literature, music, or art.
+THINKING:The process of considering or reasoning about something.
+PROBLEM:A matter or situation regarded as unwelcome or harmful and needing to be dealt with and overcome.
+SOLUTION:A means of solving a problem or dealing with a difficult situation.
+DECISION:A conclusion or resolution reached after consideration.
+CHOICE:An act of choosing between two or more possibilities.
+PLANNING:The process of making plans for something.
+ORGANIZATION:The action of organizing or arranging something.
+MANAGEMENT:The process of dealing with or controlling things or people.
+LEADERSHIP:The action of leading a group of people or an organization.
+TEAMWORK:The combined action of a group of people, especially when effective and efficient.
+COMMUNICATION:The imparting or exchanging of information by speaking, writing, or using some other medium.
+NEGOTIATION:Discussion aimed at reaching an agreement.
+CONFLICT:A serious disagreement or argument, typically a protracted one.
+RESOLUTION:The action of solving a problem, dispute, or contentious matter.
+COOPERATION:The process of working together to achieve a common goal.
+COLLABORATION:The action of working with someone to produce or create something.
+CREATIVITY:The use of imagination or original ideas to create something.
+INNOVATION:The action or process of innovating.
+IMAGINATION:The faculty or action of forming new ideas, or images or concepts of external objects not present to the senses.
+INSPIRATION:The process of being mentally stimulated to do or feel something, especially to do something creative.
+MOTIVATION:The reason or reasons one has for acting or behaving in a particular way.
+GOAL:The object of a person's ambition or effort; an aim or desired result.
+AMBITION:A strong desire to do or to achieve something.
+SUCCESS:The accomplishment of an aim or purpose.
+FAILURE:The omission of expected or required action.
+CHALLENGE:A call to someone to participate in a competitive situation or fight to decide who is superior in terms of ability or strength.
+OPPORTUNITY:A set of circumstances that makes it possible to do something.
+RISK:A situation involving exposure to danger.
+REWARD:A thing given in recognition of one's service, effort, or achievement.
+PUNISHMENT:The infliction or imposition of a penalty as retribution for an offense.
+LEARNING:The acquisition of knowledge or skills through study, experience, or being taught.
+EDUCATION:The process of receiving or giving systematic instruction, especially at a school or university.
+SCHOOL:An institution for educating children.
+UNIVERSITY:An institution of higher education and research.
+STUDENT:A person who is studying at a school or college.
+TEACHER:A person who teaches, especially in a school.
+CLASSROOM:A room in which a class of students is taught.
+HOMEWORK:Schoolwork that a student is required to do at home.
+EXAM:A formal test of a person's knowledge or proficiency in a subject or skill.
+GRADE:A mark indicating the quality of a student's work.
+DIPLOMA:A certificate awarded by an educational establishment to show that someone has successfully completed a course of study.
+DEGREE:An academic rank conferred by colleges and universities as a result of study.
+KNOWLEDGE:Facts, information, and skills acquired by a person through experience or education.
+WISDOM:The quality of having experience, knowledge, and good judgment.
+UNDERSTANDING:The ability to understand something; comprehension.
+INSIGHT:The capacity to gain an accurate and deep intuitive understanding of a person or thing.
+PERSPECTIVE:A particular attitude toward or way of regarding something; a point of view.
+OPINION:A view or judgment formed about something, not necessarily based on fact or knowledge.
+BELIEF:An acceptance that a statement is true or that something exists.
+FAITH:Complete trust or confidence in someone or something.
+HOPE:A feeling of expectation and desire for a certain thing to happen.
+DREAM:A cherished aspiration, ambition, or ideal.
+GOAL:The object of a person's ambition or effort; an aim or desired result.
+PURPOSE:The reason for which something is done or created or for which something exists.
+MEANING:What is meant by a word, text, concept, or action.
+VALUE:The regard that something is held to deserve; the importance, worth, or usefulness of something.
+ETHICS:Moral principles that govern a person's behavior or the conducting of an activity.
+MORALS:A person's standards of behavior or beliefs concerning what is and is not acceptable for them to do.
+VIRTUE:Behavior showing high moral standards.
+VICE:Immoral or wicked behavior.
+GOOD:To be desired or approved of.
+EVIL:Profoundly immoral and wicked.
+RIGHT:Morally good, justified, or acceptable.
+WRONG:Not correct or true; incorrect.
+JUST:Based on or behaving according to what is morally right and fair.
+UNJUST:Not based on or behaving according to what is morally right and fair.
+FAIR:Treating people equally without favoritism or discrimination.
+UNFAIR:Not based on or behaving according to the principles of equality and justice.
+HONOR:High respect; esteem.
+SHAME:A painful feeling of humiliation or distress caused by the consciousness of wrong or foolish behavior.
+GUILT:The fact of having committed a specified or implied offense or crime.
+INNOCENCE:The state, quality, or fact of being innocent of a crime or offense.
+FORGIVENESS:The action or process of forgiving or being forgiven.
+REVENGE:The action of inflicting hurt or harm on someone for an injury or wrong suffered at their hands.
+GRATITUDE:The quality of being thankful.
+APPRECIATION:Recognition and enjoyment of the good qualities of someone or something.
+RESPECT:A feeling of deep admiration for someone or something elicited by their abilities, qualities, or achievements.
+TOLERANCE:The ability or willingness to tolerate the existence of opinions or behavior that one dislikes or disagrees with.
+EMPATHY:The ability to understand and share the feelings of another.
+COMPASSION:Sympathetic pity and concern for the sufferings or misfortunes of others.
+KINDNESS:The quality of being friendly, generous, and considerate.
+GENEROSITY:The quality of being kind and generous.
+PATIENCE:The capacity to accept or tolerate delay, problems, or suffering without becoming annoyed or anxious.
+PERSEVERANCE:Persistence in doing something despite difficulty or delay in achieving success.
+DETERMINATION:Firmness of purpose; resoluteness.
+DISCIPLINE:The practice of training people to obey rules or a code of behavior.
+EFFORT:Strenuous physical or mental exertion.
+HARDWORK:A great deal of effort or toil.
+DEDICATION:The quality of being dedicated or committed to a task or purpose.
+COMMITMENT:The state or quality of being dedicated to a cause, activity, etc.
+RESPONSIBILITY:The state or fact of having a duty to deal with something or of having control over someone.
+ACCOUNTABILITY:The fact or condition of being accountable; responsibility.
+INTEGRITY:The quality of being honest and having strong moral principles.
+HONESTY:The quality of being honest.
+TRUST:Firm belief in the reliability, truth, ability, or strength of someone or something.
+LOYALTY:The quality of being loyal.
+FIDELITY:Faithfulness to a person, cause, or belief.
+BRAVERY:Courageous behavior or character.
+COURAGE:The ability to do something that frightens one.
+FEARLESS:Lacking fear.
+BOLD:Showing an ability to take risks; confident and courageous.
+ADVENTURE:An unusual and exciting or daring experience.
+EXPLORATION:The action of traveling in or through an unfamiliar area in order to learn about it.
+JOURNEY:An act of traveling from one place to another.
+EXPEDITION:A journey or voyage undertaken by a group of people with a particular purpose.
+DISCOVERY:The action or process of discovering or being discovered.
+MYSTERY:Something that is difficult or impossible to understand or explain.
+SECRET:Something kept from the knowledge of others.
+ENIGMA:A person or thing that is mysterious, puzzling, or difficult to understand.
+PUZZLE:A game, toy, or problem designed to test ingenuity or knowledge.
+RIDDLE:A question or statement intentionally phrased so as to require ingenuity in ascertaining its answer or meaning.
+CLUE:A piece of evidence or information used in the detection of a crime or solving of a problem.
+HINT:A slight indication or suggestion.
+SOLUTION:A means of solving a problem or dealing with a difficult situation.
+ANSWER:A thing that is said, written, or done as a reaction to a question, statement, or suggestion.
+QUESTION:A sentence worded or expressed so as to elicit information.
+STATEMENT:A definite or clear expression of something in speech or writing.
+EXPLANATION:A statement or account that makes something clear.
+DESCRIPTION:A spoken or written representation or account of a person, object, or event.
+NARRATIVE:A spoken or written account of connected events; a story.
+STORYTELLING:The activity of telling or writing stories.
+POEM:A piece of writing in which the expression of feelings and ideas is given intensity by the use of distinctive style and rhythm.
+SONG:A short poem or other set of words set to music or meant to be sung.
+MUSIC:Vocal or instrumental sounds (or both) combined in such a way as to produce beauty of form, harmony, and expression of emotion.
+ART:The expression or application of human creative skill and imagination, typically in a visual form such as painting or sculpture.
+PAINTING:The action or skill of using paint.
+SCULPTURE:The art of making two- or three-dimensional representative or abstract forms.
+DRAWING:A picture or diagram made with a pencil, pen, or crayon rather than paint.
+PHOTOGRAPHY:The art or process of producing images by the action of radiant energy and especially light on a sensitive surface.
+FILM:A thin flexible strip of plastic or other material coated with a light-sensitive emulsion for exposure in a camera.
+MOVIE:A story or event recorded by a camera as a set of moving images and shown in a theater or on television.
+THEATER:A building or outdoor area in which plays, movies, or other performances are given.
+DANCE:Move rhythmically to music, typically following a set sequence of steps.
+BALLET:An artistic dance form performed to music using precise and highly formalized set steps and gestures.
+OPERA:A dramatic work in one or more acts, set to music for singers and instrumentalists.
+CONCERT:A musical performance given in public, typically by several performers or of several compositions.
+FESTIVAL:A day or period of celebration, typically for religious reasons.
+CELEBRATION:The action of celebrating an important day or event.
+PARTY:A social gathering of people for entertainment, discussion, or the like.
+BIRTHDAY:The anniversary of the day on which a person was born.
+WEDDING:A marriage ceremony, especially considered as including the accompanying celebrations.
+HOLIDAY:A day of festivity or recreation when no work is done.
+VACATION:An extended period of recreation, especially one spent away from home or in traveling.
+TRAVEL:Go from one place to another, typically over a distance of some length.
+ADVENTURE:An unusual and exciting or daring experience.
+EXPLORATION:The action of traveling in or through an unfamiliar area in order to learn about it.
+TOURISM:The commercial organization and operation of vacations and visits to places of interest.
+CULTURE:The customs, arts, social institutions, and achievements of a particular nation, people, or group.
+TRADITION:The transmission of customs or beliefs from generation to generation.
+RITUAL:A religious or solemn ceremony consisting of a series of actions performed according to a prescribed order.
+CUSTOM:A traditional and widely accepted way of behaving or doing something specific to a particular society, place, or time.
+HERITAGE:Property that is or may be inherited; an inheritance.
+HISTORY:The study of past events.
+ARCHAEOLOGY:The study of human history and prehistory through the excavation of sites and the analysis of artifacts and other physical remains.
+PALEONTOLOGY:The branch of science concerned with fossil animals and plants.
+ANTHROPOLOGY:The study of humanity.
+SOCIOLOGY:The study of the development, structure, and functioning of human society.
+PSYCHOLOGY:The scientific study of the human mind and its functions, especially those affecting behavior in a given context.
+PHILOSOPHY:The study of the fundamental nature of knowledge, reality, and existence.
+RELIGION:The belief in and worship of a superhuman controlling power, especially a personal God or gods.
+SPIRITUALITY:The quality of being concerned with the human spirit or soul as opposed to material or worldly matters.
+FAITH:Complete trust or confidence in someone or something.
+PRAYER:A solemn request for help or expression of thanks addressed to God or an object of worship.
+MEDITATION:The action or practice of meditating.
+YOGA:A Hindu spiritual and ascetic discipline, a part of which, including breath control, simple meditation, and the adoption of specific bodily postures, is widely practiced for health and relaxation.
+MINDFULNESS:The quality or state of being conscious or aware of something.
+HAPPINESS:The state of being happy.
+WELLBEING:The state of being comfortable, healthy, or happy.
+HEALTH:The state of being free from illness or injury.
+FITNESS:The condition of being physically fit and healthy.
+NUTRITION:The process of providing or obtaining the food necessary for health and growth.
+FOOD:Any nutritious substance that people or animals eat or drink, or that plants absorb, in order to maintain life and growth.
+WATER:A colorless, transparent, odorless liquid that forms the seas, lakes, rivers, and rain and is the basis of the fluids of living organisms.
+AIR:The invisible gaseous substance surrounding the earth, a mixture mainly of oxygen and nitrogen.
+SUNLIGHT:Light from the sun.
+PLANT:A living organism of the kind exemplified by trees, shrubs, herbs, grasses, ferns, and mosses.
+ANIMAL:A living organism that feeds on organic matter, typically having specialized sense organs and nervous system and able to respond rapidly to stimuli.
+INSECT:A small arthropod animal that has six legs and generally one or two pairs of wings.
+BIRD:A warm-blooded egg-laying vertebrate animal distinguished by the possession of feathers, wings, a beak, and hollow bones.
+FISH:A limbless cold-blooded vertebrate animal with gills and fins living wholly in water.
+MAMMAL:A warm-blooded vertebrate animal of a class that is distinguished by the possession of hair or fur, females that secrete milk for the nourishment of the young, and (typically) the birth of live young.
+REPTILE:A vertebrate animal of a class that includes snakes, lizards, crocodiles, turtles, and tortoises.
+AMPHIBIAN:A cold-blooded vertebrate animal of a class that comprises frogs, toads, newts, and salamanders.
+FLOWER:The seed-bearing part of a plant, consisting of reproductive organs (stamens and carpels) typically surrounded by a brightly colored corolla (petals) and a green calyx (sepals).
+TREE:A woody perennial plant, typically having a single stem or trunk growing to a considerable height and bearing lateral branches at some distance from the ground.
+FRUIT:The sweet and fleshy product of a tree or other plant that contains seed and can be eaten as food.
+VEGETABLE:A plant or part of a plant used as food, typically as accompaniment to meat or fish.
+HERB:Any plant with leaves, seeds, or flowers used for flavoring, food, medicine, or perfume.
+SPICE:An aromatic or pungent vegetable substance used to flavor food.
+SUGAR:A sweet crystalline substance obtained from various plants, especially sugar cane and sugar beet.
+SALT:A white crystalline substance that gives seawater its characteristic taste and is used for flavoring or preserving food.
+PEPPER:A pungent, hot-tasting powder prepared from dried and ground peppercorns, used as a spice or condiment to flavor food.
+BREAD:Food made from flour, water, and yeast or another leavening agent, mixed together and baked.
+CHEESE:A food made from the pressed curds of milk, typically produced in rounds or blocks, and aged.
+MILK:An opaque white fluid rich in fat and protein, secreted by female mammals for the nourishment of their young.
+EGG:An oval or round object laid by female birds, reptiles, amphibians, fish, and insects, containing an embryo.
+MEAT:The flesh of an animal (especially a mammal) as food.
+CHICKEN:A domestic fowl kept for its eggs or meat.
+BEEF:The flesh of a cow, bull, or ox, used as food.
+PORK:The flesh of a pig used as food.
+FISH:The flesh of fish used as food.
+RICE:A swamp grass that is widely cultivated as a source of food.
+PASTA:A dish originally from Italy consisting of dough made from durum wheat and water, extruded or stamped into various shapes and typically cooked in boiling water.
+PIZZA:A dish of Italian origin consisting of a flat round base of dough baked with a topping of tomato sauce and cheese, typically with added meat, fish, or vegetables.
+BURGER:A dish consisting of a flat round patty of minced beef, or sometimes other meat or a vegetarian alternative, that is grilled or fried and typically served in a bun with various condiments and salad.
+SANDWICH:An item of food consisting of two pieces of bread with meat, cheese, or other filling between them, eaten as a light meal.
+SOUP:A liquid dish, typically made by boiling meat, fish, or vegetables with various added ingredients.
+SALAD:A cold dish of various mixtures of raw or cooked vegetables, usually seasoned with oil, vinegar, or other dressing and sometimes accompanied by meat, fish, or other ingredients.
+CAKE:An item of soft, sweet food made from a mixture of flour, fat, eggs, sugar, and other ingredients, baked and sometimes iced or decorated.
+COOKIE:A small flat sweet cake.
+CHOCOLATE:A food preparation in the form of a paste or solid block made from roasted and ground cacao seeds.
+ICE CREAM:A soft, sweet, frozen food made with milk and cream, flavored with vanilla, fruit, or other ingredients.
+COFFEE:A drink made from the roasted and ground beanlike seeds of a tropical shrub.
+TEA:A hot drink made by infusing dried and crushed leaves of the tea plant in boiling water.
+JUICE:The liquid that comes from fruit or vegetables.
+WATER:A colorless, transparent, odorless liquid that forms the seas, lakes, rivers, and rain and is the basis of the fluids of living organisms.
+MILK:An opaque white fluid rich in fat and protein, secreted by female mammals for the nourishment of their young.
+SODA:A carbonated soft drink.
